@@ -1,0 +1,14 @@
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.AssemblyInfoInputs.cache
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.AssemblyInfo.cs
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.csproj.CoreCompileInputs.cache
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\bin\Debug\net8.0\pariveda-casiono-henrywoods.exe
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\bin\Debug\net8.0\pariveda-casiono-henrywoods.deps.json
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\bin\Debug\net8.0\pariveda-casiono-henrywoods.runtimeconfig.json
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\bin\Debug\net8.0\pariveda-casiono-henrywoods.dll
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\bin\Debug\net8.0\pariveda-casiono-henrywoods.pdb
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.dll
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\refint\pariveda-casiono-henrywoods.dll
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.pdb
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\pariveda-casiono-henrywoods.genruntimeconfig.cache
+C:\Users\henry\OneDrive - The University of Alabama\Documents\Source\Spring2025repo\pariveda-casiono-henrywoods\obj\Debug\net8.0\ref\pariveda-casiono-henrywoods.dll
